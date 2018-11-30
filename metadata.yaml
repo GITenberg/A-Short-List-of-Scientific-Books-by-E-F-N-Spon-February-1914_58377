@@ -1,5 +1,8 @@
 _repo: A-Short-List-of-Scientific-Books-by-E-F-N-Spon-February-1914_58377
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58377-h/images/cover.jpg
 creator:
   author:
     agent_name: Various
@@ -7,6 +10,8 @@ creator:
     gutenberg_agent_id: '116'
     url: http://www.gutenberg.org/2009/agents/116
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58377#A-Short-List-of-Scientific-Books-by-E-F-N-Spon-February-1914
 gutenberg_issued: '2018-11-29'
 gutenberg_type: Text
 identifiers:
